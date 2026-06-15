@@ -102,8 +102,8 @@ pip install pybind11 safetensors numpy
 ### Build
 
 ```bash
-git clone https://github.com/cuongle/cuda-inference-engine
-cd cuda-inference-engine
+git clone https://github.com/lecuong1502/CUDA-Inference-Engine
+cd CUDA-Inference-Engine
 
 mkdir build && cd build
 cmake .. -DCMAKE_BUILD_TYPE=Release
