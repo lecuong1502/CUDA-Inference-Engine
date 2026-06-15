@@ -196,5 +196,5 @@ Actively in development. Phase 1–2 (CUDA kernels + transformer forward pass) c
 ---
 
 <p align="center">
-  Built by <a href="https://github.com/cuongle">Lê Hữu Cường</a> · HUST IT K68 · 2025
+  Built by <a href="https://github.com/lecuong1502">Lê Kiên Cường</a> · 2026
 </p>
