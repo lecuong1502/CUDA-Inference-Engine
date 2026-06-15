@@ -37,7 +37,7 @@ The goal is to deeply understand GPU memory hierarchy, kernel fusion, quantizati
 
 ## Benchmark
 
-Tested on NVIDIA RTX 4060 (8GB VRAM), GPT-2 small (117M params), batch size 1, sequence length 512.
+Tested on NVIDIA RTX 4050 (6GB VRAM), GPT-2 small (117M params), batch size 1, sequence length 512.
 
 | Backend | Precision | Latency (ms/token) | Throughput (tok/s) | Memory (MB) |
 |---|---|---|---|---|
